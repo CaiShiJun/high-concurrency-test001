@@ -19,17 +19,21 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="FixedThreadPoolDeadLockTest001.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FixedThreadPoolDeadLockTest001.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/deadlock_001/threadpooldeadlock_c/FixedThreadPoolDeadLockTest001.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="712">
               <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1216#1217#0" expanded="true" />
-                <element signature="e#1334#1335#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterruptTest001.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/thread_002/interrupt_a/InterruptTest001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -60,6 +64,8 @@
         <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/deadlock_001/lockdeadlock_b/ForgetUnlockDeadlockTest001.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/deadlock_001/lockdeadlock_b/LockDeadLockTest002.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/deadlock_001/threadpooldeadlock_c/FixedThreadPoolDeadLockTest001.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/thread_002/interrupt_a/InterruptTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/thread_002/interrupt_a/InterruptTest001.java" />
       </list>
     </option>
   </component>
@@ -87,8 +93,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,16 +137,26 @@
               <item name="caishijun" type="462c0819:PsiDirectoryNode" />
               <item name="deadlock_001" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learn-concurrency-test-001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-concurrency-test-001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="caishijun" type="462c0819:PsiDirectoryNode" />
+              <item name="interrupt_a" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -160,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FixedThreadPoolDeadLockTest001">
+  <component name="RunManager" selected="Application.InterruptTest001">
     <configuration name="FixedThreadPoolDeadLockTest001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.github.caishijun.deadlock_001.threadpooldeadlock_c.FixedThreadPoolDeadLockTest001" />
       <module name="learn-concurrency-test-001" />
@@ -183,6 +199,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="InterruptTest001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.github.caishijun.thread_002.interrupt_a.InterruptTest001" />
+      <module name="learn-concurrency-test-001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.github.caishijun.thread_002.interrupt_a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="LockDeadLockTest002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.github.caishijun.deadlock_001.lockdeadlock_b.LockDeadLockTest002" />
       <module name="learn-concurrency-test-001" />
@@ -196,17 +223,6 @@
     </configuration>
     <configuration name="SynchronizedDeadlockSolutionTest003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.github.caishijun.deadlock_001.synchronizeddeadlock_a.SynchronizedDeadlockSolutionTest003" />
-      <module name="learn-concurrency-test-001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.github.caishijun.deadlock_001.synchronizeddeadlock_a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SynchronizedDeadlockTest002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.github.caishijun.deadlock_001.synchronizeddeadlock_a.SynchronizedDeadlockTest002" />
       <module name="learn-concurrency-test-001" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -258,19 +274,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SynchronizedDeadlockTest002" />
       <item itemvalue="Application.SynchronizedDeadlockSolutionTest003" />
       <item itemvalue="Application.ForgetUnlockDeadlockTest001" />
       <item itemvalue="Application.LockDeadLockTest002" />
       <item itemvalue="Application.FixedThreadPoolDeadLockTest001" />
+      <item itemvalue="Application.InterruptTest001" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterruptTest001" />
         <item itemvalue="Application.FixedThreadPoolDeadLockTest001" />
         <item itemvalue="Application.LockDeadLockTest002" />
         <item itemvalue="Application.ForgetUnlockDeadlockTest001" />
         <item itemvalue="Application.SynchronizedDeadlockSolutionTest003" />
-        <item itemvalue="Application.SynchronizedDeadlockTest002" />
       </list>
     </recent_temporary>
   </component>
@@ -293,44 +309,46 @@
       <option name="presentableId" value="Default" />
       <updated>1537408513658</updated>
       <workItem from="1537408515508" duration="7498000" />
+      <workItem from="1538993096457" duration="962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7498000" />
+    <option name="totallyTimeSpent" value="8460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.25501114" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +358,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/deadlock_001/threadpooldeadlock_c/FixedThreadPoolDeadLockTest001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -372,9 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -382,11 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -401,11 +418,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="712">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/thread_002/interrupt_a/InterruptTest001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
