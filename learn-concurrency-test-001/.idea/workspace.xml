@@ -22,7 +22,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -35,7 +35,7 @@
       <file leaf-file-name="TransferQueueTest003.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/TransferQueueTest003.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="513">
               <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,15 +47,10 @@
       <file leaf-file-name="ExecutorCompletionServiceTest005.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/ExecutorCompletionServiceTest005.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="228">
               <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#724#725#0" expanded="true" />
-                <element signature="e#959#975#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,7 +59,7 @@
       <file leaf-file-name="ExchangerTest003.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/ExchangerTest003.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="171">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -76,7 +71,7 @@
       <file leaf-file-name="SemaphoreTest002.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/SemaphoreTest002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="171">
               <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,7 +83,7 @@
       <file leaf-file-name="SynchronousQueueTest006.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/SynchronousQueueTest006.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1558">
+            <state relative-caret-position="1463">
               <caret line="82" column="61" selection-start-line="82" selection-start-column="61" selection-end-line="82" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,7 +104,7 @@
       <file leaf-file-name="DelayQueueTest001.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/DelayQueueTest001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="361">
               <caret line="23" column="30" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -118,33 +113,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedBlockingQueueTest007.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedBlockingQueueTest007.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/LinkedBlockingQueueTest007.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#363#371#0" expanded="true" />
-                <element signature="e#1705#1706#0" expanded="true" />
-                <element signature="e#1739#1740#0" expanded="true" />
-                <element signature="e#2615#2616#0" expanded="true" />
-                <element signature="e#2648#2649#0" expanded="true" />
-                <element signature="e#2760#2761#0" expanded="true" />
-                <element signature="e#2794#2795#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExecutorCompletionServiceTest006.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/ExecutorCompletionServiceTest006.java">
+      <file leaf-file-name="FutureTaskTest007.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/FutureTaskTest007.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="12" selection-end-column="54" />
+            <state relative-caret-position="-522">
+              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
               <folding>
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#584#605#0" expanded="true" />
+                <element signature="e#1391#1392#0" expanded="true" />
+                <element signature="e#1427#1428#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/SynchronousQueueTest006.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/BlockingQueueTest007.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/LinkedBlockingQueueTest007.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/FutureTaskTest007.java" />
       </list>
     </option>
   </component>
@@ -224,17 +215,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="433" />
-    <option name="y" value="61" />
-    <option name="width" value="1177" />
-    <option name="height" value="988" />
+    <option name="x" value="432" />
+    <option name="y" value="60" />
+    <option name="width" value="1178" />
+    <option name="height" value="989" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,12 +258,22 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="caishijun" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learn-concurrency-test-001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-concurrency-test-001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="caishijun" type="462c0819:PsiDirectoryNode" />
+              <item name="assist_006" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedBlockingQueueTest007">
+  <component name="RunManager" selected="Application.FutureTaskTest007">
     <configuration name="CachedThreadPoolTest001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.github.caishijun.threadpool_005.CachedThreadPoolTest001" />
       <module name="learn-concurrency-test-001" />
@@ -318,6 +318,17 @@
     </configuration>
     <configuration name="CountDownLatchTest001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.github.caishijun.assist_006.CountDownLatchTest001" />
+      <module name="learn-concurrency-test-001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.github.caishijun.assist_006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FutureTaskTest007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.github.caishijun.assist_006.FutureTaskTest007" />
       <module name="learn-concurrency-test-001" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -345,17 +356,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.github.caishijun.assist_006.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TransferQueueTest003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.github.caishijun.queue_004.TransferQueueTest003" />
-      <module name="learn-concurrency-test-001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.github.caishijun.queue_004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,19 +402,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TransferQueueTest003" />
       <item itemvalue="Application.CachedThreadPoolTest001" />
       <item itemvalue="Application.CountDownLatchTest001" />
       <item itemvalue="Application.SemaphoreTest002" />
       <item itemvalue="Application.LinkedBlockingQueueTest007" />
+      <item itemvalue="Application.FutureTaskTest007" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FutureTaskTest007" />
         <item itemvalue="Application.LinkedBlockingQueueTest007" />
         <item itemvalue="Application.CountDownLatchTest001" />
         <item itemvalue="Application.SemaphoreTest002" />
         <item itemvalue="Application.CachedThreadPoolTest001" />
-        <item itemvalue="Application.TransferQueueTest003" />
       </list>
     </recent_temporary>
   </component>
@@ -442,14 +442,16 @@
       <workItem from="1540258668200" duration="3029000" />
       <workItem from="1541414724046" duration="5215000" />
       <workItem from="1541425277145" duration="6252000" />
+      <workItem from="1541436899501" duration="1531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27437000" />
+    <option name="totallyTimeSpent" value="28968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -461,11 +463,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.09103448" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20275863" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25976562" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25976562" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -489,6 +491,40 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/ConcurrentLinkedQueueTest005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="209" selection-start-line="3" selection-start-column="209" selection-end-line="3" selection-end-column="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/DelayQueueTest001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/ExecutorCompletionServiceTest006.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/LinkedBlockingQueueTest007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/atomic_003/AtomicBooleanTest002.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -726,31 +762,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="12" selection-end-column="54" />
-          <folding>
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/ExecutorCompletionServiceTest005.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="228">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#959#975#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/ExchangerTest003.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="171">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -760,7 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/SemaphoreTest002.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="171">
           <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -770,7 +797,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/TransferQueueTest003.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="513">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -789,16 +816,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11571">
           <caret line="629" column="23" selection-start-line="629" selection-start-column="23" selection-end-line="629" selection-end-column="23" />
-          <folding>
-            <element signature="e#24178#24179#0" expanded="true" />
-            <element signature="e#24230#24231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/SynchronousQueueTest006.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
+        <state relative-caret-position="1463">
           <caret line="82" column="61" selection-start-line="82" selection-start-column="61" selection-end-line="82" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -815,7 +838,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/queue_004/DelayQueueTest001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="361">
           <caret line="23" column="30" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -829,13 +852,19 @@
           <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#363#371#0" expanded="true" />
-            <element signature="e#1705#1706#0" expanded="true" />
-            <element signature="e#1739#1740#0" expanded="true" />
-            <element signature="e#2615#2616#0" expanded="true" />
-            <element signature="e#2648#2649#0" expanded="true" />
-            <element signature="e#2760#2761#0" expanded="true" />
-            <element signature="e#2794#2795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/caishijun/assist_006/FutureTaskTest007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#605#0" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
           </folding>
         </state>
       </provider>
